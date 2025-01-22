@@ -9,6 +9,12 @@ Note: This system is designed to be configured with Unity's `Animation Controlle
 However, the data structure presented here can easily be adapted to work with the specific 
 configuration of your project.
 
+### Demonstration Video
+
+Here is a demo video of the behavior tree system in action [YouTube video](https://youtu.be/49WsIcEQUdc) showcasing the behavior tree implementation in action:
+
+[![Behavior Tree Demo](https://img.youtube.com/vi/exampleID/0.jpg)](https://youtu.be/49WsIcEQUdc)
+
 ---
 
 ## Table of Contents
