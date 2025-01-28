@@ -166,7 +166,9 @@ public class Condition : IStrategy
 ###
 
 ## Blackboard System
-We need to create a blackboard system so that (say something about how it is used and usefull...) Important to note that we use dictionaries here since the blackboard can be querried every frame. This script will be attached to the animal game object.
+We need to create a blackboard system so that our AI agents can dynamically share and access critical information about the game world and their current state. 
+This allows for more flexible and reactive behaviors as the game progresses. Important to note that we use dictionaries here since the blackboard can be queried every frame. 
+This script will be attached to the animal game object.
 
 ### Blackboard Structure
 
