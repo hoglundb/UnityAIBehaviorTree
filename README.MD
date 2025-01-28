@@ -11,7 +11,7 @@ configuration of your project.
 
 ### Demonstration Video
 
-Here is a demo video of the behavior tree system in action [YouTube video](https://youtu.be/49WsIcEQUdc) showcasing the behavior tree implementation in action:
+Here is a demo video of the behavior tree system in action showcasing the behavior tree implementation in action: [YouTube video](https://youtu.be/49WsIcEQUdc)
 
 ---
 
