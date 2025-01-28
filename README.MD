@@ -11,7 +11,7 @@ configuration of your project.
 
 ### Demonstration Video
 
-Here is a demo video of the behavior tree system in action, integrated into a Unity3D project: [YouTube video](https://youtu.be/49WsIcEQUdc)
+Here is a demo video of the behavior tree system in action inside a Unity3D project: [YouTube video](https://youtu.be/49WsIcEQUdc)
 
 ---
 
