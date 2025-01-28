@@ -118,7 +118,7 @@ public interface IStrategy
 ```
 
 ### Action Strategy
-This is a strategy that we can re-use quite a bit. Note: we optimize the flexability of this component by passing its constructor a delegate/action to be executed, rather than 
+This is a strategy that we can re-use quite a bit. Note: we optimize the flexability of this component by passing it a delegate/action to be executed, rather than 
 performing the action logic directly.   
 
 ```csharp
