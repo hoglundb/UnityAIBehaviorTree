@@ -1,6 +1,6 @@
-# Deer AI Behavior System
+# Animal AI Behavior System
 
-This guide explains the Deer AI system, which utilizes a behavior tree and 
+This guide explains the Animal AI system, which utilizes a behavior tree and 
 blackboard to create dynamic, responsive behavior. The system is modular, extensible, and supports 
 behaviors such as wandering, fleeing, and reacting to stimuli. This code is designed to be used within the Unity Game Engine,
 but the main idea presented here can be applied to any AI system.
