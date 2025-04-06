@@ -35,7 +35,7 @@ Here is a demo video of the behavior tree system in action inside a Unity3D proj
 
 ## AI Functionality
 
-The Deer AI system supports the following behaviors:
+The Animal AI system supports the following behaviors:
 - **Wandering**: Randomly selects a destination to wander to.
 - **Eating**: Stops to eat occasionally.
 - **Idling**: Pauses without performing any action.
